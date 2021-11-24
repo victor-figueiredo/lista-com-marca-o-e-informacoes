@@ -1,3 +1,10 @@
+# Projeto de estudos sobre ReactJS, permite visualizar uma lista, cadastrar tarefas, marcar como concluída, ver informações e remover tarefa.
+
+O modulo "react-router-dom" foi usado na versão 5.2.0
+
+Vídeo simples sobre o projeto: https://youtu.be/8bvlU-A_FHQ
+Principal fonte de conhecimento desse projeto: https://www.youtube.com/watch?v=ErjWNvP6mko
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
