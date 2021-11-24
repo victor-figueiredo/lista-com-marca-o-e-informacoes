@@ -3,7 +3,6 @@
 O modulo "react-router-dom@5.2.0" foi usado na versão 5.2.0
 
 Vídeo simples sobre o projeto: https://youtu.be/8bvlU-A_FHQ
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8bvlU-A_FHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Principal fonte de conhecimento desse projeto: https://www.youtube.com/watch?v=ErjWNvP6mko
 
